@@ -34,3 +34,8 @@ This project aims to enhance the efficiency and accuracy of MRI data processing 
 - !unzip <dataset-name>.zip
 Your dataset is now ready for use in your Colab notebook!
 
+# Dataset Reference
+- https://www.kaggle.com/datasets/dorianea/bd-braintumor
+- https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
+- https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
